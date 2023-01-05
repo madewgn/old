@@ -1,0 +1,4 @@
+# pack-refs with: peeled fully-peeled 
+7e3280da24357579e107c43109e55215b2d69f85 refs/heads/Master
+66d06a1a79f2c50295aa91b928f8549ed96fdfd1 refs/tags/Telegram
+cbc9df08abae0a66a173a69280fa113ad2bf6cf4 refs/tags/v4.0

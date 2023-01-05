@@ -1,0 +1,7 @@
+# pack-refs with: peeled fully-peeled 
+3c7c1150c386c7291989155bf698adef633de1a4 refs/heads/DockerS
+bb70ab7e91729c98182998f91c9a251649340f96 refs/heads/MadeLineProto
+07f9d279338c3ec3a8f543c037b2d0ef4c537e07 refs/heads/PTB
+0e606d835bc94a6b699821b4542d1cc848f25096 refs/heads/Pyrogram
+446ee3999b06ff6925b57b840d3eafdca1f0e42c refs/heads/Telethon
+eae04a53b621681e2db06219e771359182f310d2 refs/heads/master

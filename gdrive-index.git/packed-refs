@@ -1,0 +1,10 @@
+# pack-refs with: peeled fully-peeled 
+cf78cdc9c1abfcc8c3ef26df4bac70b7211292c2 refs/heads/dependabot/npm_and_yarn/glob-parent-5.1.2
+7d160a8fae624419b5ca0aa1139140fb403ec758 refs/heads/dependabot/npm_and_yarn/hosted-git-info-2.8.9
+5f2e1e6263e00f3c61406bed2d2c2b41d11d2b0a refs/heads/dependabot/npm_and_yarn/ini-1.3.8
+d71d16afec00fa0b55450615a5b84974e1e2620a refs/heads/dependabot/npm_and_yarn/lodash-4.17.21
+4c0ccfaba463e3b51760885f7694b072b629208e refs/heads/dependabot/npm_and_yarn/node-fetch-2.6.1
+533998e4ba0b0f2d6b799643b490d3b1fe6c507d refs/heads/dependabot/npm_and_yarn/normalize-url-4.5.1
+909726980a2aef9a7d8c20bbbf7a653671077790 refs/heads/dependabot/npm_and_yarn/path-parse-1.0.7
+d106c9e6fc0421769bc725d6aba896f759c03b6f refs/heads/dependabot/npm_and_yarn/y18n-4.0.1
+5fdcee08c3127d4b4db0d38261dbbc769f20eaf7 refs/heads/master

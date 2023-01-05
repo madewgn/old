@@ -1,0 +1,9 @@
+# pack-refs with: peeled fully-peeled 
+a8f7a18348309e3ff3a8e4ccd3689056612e3965 refs/heads/master
+4a8b8e27923b72b634792d6106245c90ef0e41f6 refs/heads/purevnc
+65ef712503098e59c50310e91eae5b512c869a6e refs/tags/1.0
+87147747bbdb50059cc9ba8218acfd3c372c72f0 refs/tags/1.1
+c9d871ea4a4b6f71014823b198302d103bd59213 refs/tags/1.2
+0a3aaff5d3dc2e5b4f84bd71b07db139837eb9b0 refs/tags/1.3
+349737c95c84c51273a6aa5d745b6bdf4b17b90b refs/tags/1.4
+6cdadcb0086a0098a9abf050b5b28120bf151db9 refs/tags/1.4.1

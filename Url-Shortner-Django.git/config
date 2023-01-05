@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = 10.52.219.19:/data/repositories/b/nw/b6/2c/35/336189246/428513321.git
+	fetch = +refs/*:refs/*
+	mirror = true

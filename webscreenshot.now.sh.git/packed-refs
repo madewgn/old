@@ -1,0 +1,4 @@
+# pack-refs with: peeled fully-peeled 
+a8ce85fdc567de2a9037b7afa89eb03963e65ffc refs/heads/master
+f07d8428f04d7d66eed5dc1f0fea9cdbe098ec82 refs/tags/angular-last-version
+^3c02fce1c5cb8c9d0174f30dd948b353af63be10

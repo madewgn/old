@@ -1,0 +1,9 @@
+# pack-refs with: peeled fully-peeled 
+024a7d9d1c4cf1be6573408d49befd7780788aa5 refs/heads/MattIPv4/fix-dot-files
+bac9c8fe0f45db12ab08beafe15ccc4bf4a181a0 refs/heads/MattIPv4/rm-https
+35807bfb10c22e4bb0cbe40a38b303d4a72e1f8b refs/heads/gh-pages
+a07aaa825428f715cc6b63f022a16b53ccf6fd4a refs/heads/master
+19b763501e873929d7e04d64368b231b5eed0dd6 refs/heads/revert-4744-blog-arga-js-org
+9eeef40684706a6dd53246a7a70ac094f603e8f7 refs/heads/revert-5424-master
+4ff65c31126834652e483e3c78d7fbabe181e18b refs/heads/revert-5481-master
+b90820c282e658339617276282ae84a993d11bce refs/heads/revert-5718-master

@@ -1,0 +1,16 @@
+# pack-refs with: peeled fully-peeled 
+20454899ed3d52479ca40bec843657bf6cf4c44a refs/heads/dependabot/npm_and_yarn/path-parse-1.0.7
+91060f973dcc836455b43f113ff49bce37ae2fcb refs/heads/greenkeeper/initial
+3ff5f5f9742c3fcf8f41c7076f68e11dcbe26636 refs/heads/master
+16687e553b85c19dd058a6028d5fbf4e8ff7f4fc refs/tags/v0.0.1
+^649ac185e76638dcf81f68ffd128e21ccf0afed0
+d5550fce4afc542c3f5bc9c8f74ce9232d97985b refs/tags/v0.0.2
+^19ca8db45e10552bcaef2e3721c4e3c15faf4ac4
+a7bf54ac7c08e59b7dbc22f35bc99d9d62fce2d8 refs/tags/v0.0.3
+^02713120d8c1762d37c593706af3f8a3b51054c1
+e3eb07bc7d7abb264ad6823aec4803f8ffd35ab8 refs/tags/v0.1.0
+^caff3cf2e7ae688a80ae91ad72ff09aa9ca6def0
+52f370339bc70cf050e8ba03ee74366c1750d81a refs/tags/v0.2.0
+^cd92bf214d0e7e2ee0e94cda64e297dcbbd04278
+902ceff409b044e0d917205f88854b9626016122 refs/tags/v0.2.1
+^7fa538196f6ca7eb7c49a945b31f63d4850d56e7
